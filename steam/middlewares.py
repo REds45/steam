@@ -30,11 +30,13 @@ class SteamProxyMiddleware(object):
             return False
 
     def process_request(self, request, spider):
-        if request.meta.get('retry_times'):
+        if request.meta.get('retry_times')or request.meta.get('proxy'):
             proxy=self.get_proxy()
             if proxy:
                 uri='https://{}'.format(proxy)
                 print('正在使用代理'+proxy)
+                with open('error.txt', 'a+') as file:
+                    file.write('使用代理'+proxy)
                 request.meta['proxy']=uri
 
 
@@ -61,6 +63,7 @@ class SteamCookieMiddleware(object):
             'lastagecheckage': '1-January-1990'
         }
         request.cookies=cookie
+        request.headers['Accept-Language']='zh-CN,zh;q=0.9'
 
 
     def process_response(self, request, response, spider):

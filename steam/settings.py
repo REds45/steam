@@ -91,7 +91,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #爬取页面的数量（每页有25个详情页）
-PAGE=1
+PAGE=500
 #代理池url地址
 PROXY_URL='http://39.108.55.58/random'
 MONGO_HOST='localhost'

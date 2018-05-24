@@ -24,38 +24,35 @@ class GamedetailSpider(Spider):
 
 
     def parse_detail(self, response):
-        if( '/sub'in response.url or '/bundle'in response.url) :
+        if('站点错误' in response.text):
+            with open('error.txt', 'a+') as file:
+                file.write(response.url+"您所在的地区目前不提供此物品，使用代理访问")
+            return Request(response.url,meta={'proxy':1},callback=self.parse_detail)
+        if ('/sub' in response.url or '/bundle' in response.url):
             return
         try:
             item = DetailItem()
-            item['name'] = response.xpath('//div[@class="apphub_AppName"]/text()').extract()[0]
-            if (response.xpath(
-                    '//*[@id="game_area_purchase"]//div[contains(@class,"final_price")]/text()').extract() != []):
-                item['price'] = \
-                    response.xpath(
-                        '//*[@id="game_area_purchase"]//div[contains(@class,"final_price")]/text()').extract()[
-                        0].strip().strip("¥ ")
+            item['name'] = response.css('div.apphub_AppName ::text').extract()[0]
+            if (response.css('div.game_purchase_price.price')):
+                price = response.css('div.game_purchase_price.price ::text')
             else:
-                item['price'] = \
-                    response.xpath('//*[@id="game_area_purchase"]//div[contains(@class,"price")]/text()').extract()[
-                        0].strip().strip("¥ ")
-
-            item['description'] = response.xpath('//*[@id="game_area_description"]').xpath('string(.)').extract()[0] \
-                .replace("\t", "").replace("\r\n", "")
-            if (response.xpath(
-                    '//*[@id="game_highlights"]//span[contains(@class,"nonresponsive_hidden")]').extract() == []):
+                price = response.css('#game_area_purchase div.discount_original_price ::text')
+            item['price'] = int(price.extract()[0].strip().strip('¥ '))
+            if (response.css('span.nonresponsive_hidden.responsive_reviewdesc')):
+                item['review'] = response.css('span.nonresponsive_hidden.responsive_reviewdesc ::text').extract()[
+                    0].strip()
+            else:
                 item['review'] = '无用户评测'
-            else:
-                item['review'] = \
-                    response.xpath(
-                        '//*[@id="game_highlights"]//span[contains(@class,"nonresponsive_hidden")]').extract()[0] \
-                        .replace("\t", "").replace("\r\n", "")
-            item['game_id'] = response.url.split("/")[-3]
-        except:
+            item['description'] = response.css('#game_area_description').xpath('string(.)').extract()[0].replace("\r",
+                                                                                                                 " ").replace(
+                "\n", " ").replace("\t", " ")
+            item['game_id'] = response.url.split('/')[-3]
+            yield item
+        except Exception as e:
+            with open ('error.txt','a+') as file:
+                file.write(response.url+'\n   error Info:'+repr(e)+'\n')
 
-            return Request(response.url,meta={'retry_times':1},callback=self.parse_detail())
 
-        yield item
 
 
 

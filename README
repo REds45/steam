@@ -1,1 +1,11 @@
-Steam全球热销商品爬虫
+﻿Steam全球热销商品爬虫
+
+
+Setting里面配置爬取的页数 每页25个商品
+代理池为github上面的项目
+https://github.com/Germey/ProxyPool
+
+
+热销列表中捆绑包 礼包页面不进行信息抽取
+某些类型页面的价格信息不能正常抽取
+

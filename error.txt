@@ -1,0 +1,232 @@
+https://store.steampowered.com/app/788940/Xara_Designer_Pro_X_15_Steam_Edition/?snr=1_7_7_globaltopsellers_150_22
+   error Info:ValueError("invalid literal for int() with base 10: '1,299'",)
+https://store.steampowered.com/app/748102/EVE_Online_Galaxy_Pack/?snr=1_7_7_globaltopsellers_150_19�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/573511/MapleStory_Pet_Pack/?snr=1_7_7_globaltopsellers_150_14�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/598110/Fallout_4__Creation_Club/?snr=1_7_7_globaltopsellers_150_7
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/266410/iRacing/?snr=1_7_7_globaltopsellers_150_10
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/573510/MapleStory_Beginner_Pack/?snr=1_7_7_globaltopsellers_150_15�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/611500/Quake_Champions/?snr=1_7_7_globaltopsellers_150_15�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/780770/Black_Desert_Online__Kakao_Cash/?snr=1_7_7_globaltopsellers_150_3�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/598110/Fallout_4__Creation_Club/?snr=1_7_7_globaltopsellers_150_8
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/780770/Black_Desert_Online__Kakao_Cash/?snr=1_7_7_globaltopsellers_150_4�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/803381/Paladins__Champions_Pack/?snr=1_7_7_globaltopsellers_150_40�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/803510/Paladins__Digital_Deluxe_Edition/?snr=1_7_7_globaltopsellers_150_38�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/783870/Crossout__Arsonist_pack/?snr=1_7_7_globaltopsellers_150_38�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/853170/Crossout__Spectral_Hunter/?snr=1_7_7_globaltopsellers_150_38�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/806120/Crossout__Iron_Shield_pack/?snr=1_7_7_globaltopsellers_150_40�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/695743/EVE_Online_12_Months_Omega_Time/?snr=1_7_7_globaltopsellers_150_39�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/803380/Paladins__Season_Pass_2018/?snr=1_7_7_globaltopsellers_150_32�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/573513/MapleStory_Equipment_Enhancement_Pack/?snr=1_7_7_globaltopsellers_150_37�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/?snr=1_7_7_globaltopsellers_150_31�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/566050/Zeus__Poseidon/?snr=1_7_7_globaltopsellers_150_26
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/772150/Rocket_League__DC_Super_Heroes_DLC_Pack/?snr=1_7_7_globaltopsellers_150_26�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/?snr=1_7_7_globaltopsellers_150_23
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/759590/Crossout__Arachnophobia_Pack/?snr=1_7_7_globaltopsellers_150_43�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/748101/EVE_Online_Star_Pack/?snr=1_7_7_globaltopsellers_150_55�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/570460/Laser_League/?snr=1_7_7_globaltopsellers_150_49�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/366849/Call_of_Duty_Black_Ops_III__The_Giant_Zombies_Map/?snr=1_7_7_globaltopsellers_150_53
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/695742/EVE_Online_6_Months_Omega_Time/?snr=1_7_7_globaltopsellers_150_53�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/695740/EVE_Online_1_Month_Omega_Time/?snr=1_7_7_globaltopsellers_150_50�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/675290/Rocket_League__Fast__Furious_99_Nissan_Skyline_GTR_R34/?snr=1_7_7_globaltopsellers_150_46�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/820470/Closers_Collectors_Edition/?snr=1_7_7_globaltopsellers_150_45�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/306460/Unturned__Permanent_Gold_Upgrade/?snr=1_7_7_globaltopsellers_150_41
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/530690/Hyborian_Conqueror_Collection/?snr=1_7_7_globaltopsellers_150_47�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/764460/Crossout__Frostburn_Pack/?snr=1_7_7_globaltopsellers_150_47�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/675280/Rocket_League__Fast__Furious_70_Dodge_Charger_RT/?snr=1_7_7_globaltopsellers_150_77�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/819601/TERA_Digital_Deluxe_Starter_Pack/?snr=1_7_7_globaltopsellers_150_75�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/564530/Pharaoh__Cleopatra/?snr=1_7_7_globaltopsellers_150_69
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/40990/Mafia/?snr=1_7_7_globaltopsellers_150_75�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/809740/Crossout__Pandemic_pack/?snr=1_7_7_globaltopsellers_150_70�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/812760/Crossout__Wild_Hunt_Pack/?snr=1_7_7_globaltopsellers_150_74�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/558130/Dungeon_Fighter_Online_Dynasty_Guardian_Pack/?snr=1_7_7_globaltopsellers_150_68�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/830460/Call_of_Duty_Black_Ops_III__Gorod_Krovi_Zombies_Map/?snr=1_7_7_globaltopsellers_150_68�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/832720/Dungeon_Brewmaster/?snr=1_7_7_globaltopsellers_150_66
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/695741/EVE_Online_3_Months_Omega_Time/?snr=1_7_7_globaltopsellers_150_67�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/830461/Call_of_Duty_Black_Ops_III__Revelations_Zombies_Map/?snr=1_7_7_globaltopsellers_150_61�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/10150/Prototype/?snr=1_7_7_globaltopsellers_150_60
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/3320/Insaniquarium_Deluxe/?snr=1_7_7_globaltopsellers_150_66
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/624370/Black_Desert_Online__Travelers_Package/?snr=1_7_7_globaltopsellers_150_88�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/462600/Raiders_of_the_Broken_Planet__Alien_Myths_Campaign/?snr=1_7_7_globaltopsellers_150_81
+   error Info:ValueError("invalid literal for int() with base 10: '���'",)
+https://store.steampowered.com/app/830451/Call_of_Duty_Black_Ops_III__Zetsubou_No_Shima_Zombies_Map/?snr=1_7_7_globaltopsellers_150_83�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/559680/Vampire_The_Masquerade__Redemption/?snr=1_7_7_globaltopsellers_150_84
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/503270/TOXIKK__UPGRADE__Free_Edition_to_FULL_GAME/?snr=1_7_7_globaltopsellers_150_99
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/668040/Riders_of_Icarus__Legendary_Tricksters_Guile_Package/?snr=1_7_7_globaltopsellers_150_108�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/385721/Kings_Quest_Season_Pass/?snr=1_7_7_globaltopsellers_150_107
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/789393/Closers_Deluxe_Collectors_Edition/?snr=1_7_7_globaltopsellers_150_109�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/748100/EVE_Online_Meteor_Pack/?snr=1_7_7_globaltopsellers_150_105�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/36180/Cake_Mania_Collection/?snr=1_7_7_globaltopsellers_150_105
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/10130/TimeShift/?snr=1_7_7_globaltopsellers_150_103
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/3390/Feeding_Frenzy_2_Deluxe/?snr=1_7_7_globaltopsellers_150_95
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/682380/Tree_of_Savior__Reset_Pack_for_NA_Servers/?snr=1_7_7_globaltopsellers_150_125�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/647860/ArcheAge__Erenor_Eternal_Starter_Pack/?snr=1_7_7_globaltopsellers_150_127�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/840991/WAKFU__Brotherhood_Pack/?snr=1_7_7_globaltopsellers_150_122�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/?snr=1_7_7_globaltopsellers_150_121
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/560350/Police_Quest_SWAT/?snr=1_7_7_globaltopsellers_150_137
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/707410/Marvelous_Designer_7_For_Steam/?snr=1_7_7_globaltopsellers_150_147
+   error Info:ValueError("invalid literal for int() with base 10: '2,200'",)
+https://store.steampowered.com/app/560370/SWAT_3_Tactical_Game_of_the_Year_Edition/?snr=1_7_7_globaltopsellers_150_140
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/312210/The_Fifth_Day/?snr=1_7_7_globaltopsellers_150_138
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/333290/Mos_Speedrun_2/?snr=1_7_7_globaltopsellers_150_136
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/494320/Wizrogue__Labyrinth_of_Wizardry/?snr=1_7_7_globaltopsellers_150_141�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/360280/Kings_Quest__Chapter_3_Once_Upon_a_Climb/?snr=1_7_7_globaltopsellers_150_134
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/624371/Black_Desert_Online__Explorers_Package/?snr=1_7_7_globaltopsellers_150_131�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/42716/Call_of_Duty_Black_Ops_First_Strike_Content_Pack/?snr=1_7_7_globaltopsellers_150_131�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/36300/Cake_Mania_Main_Street/?snr=1_7_7_globaltopsellers_150_159
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/682390/Tree_of_Savior__Reset_Pack_for_EU_Servers/?snr=1_7_7_globaltopsellers_150_157�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/773472/Freestyle_2__Silver_Fox_Rookie_Pack/?snr=1_7_7_globaltopsellers_150_156�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/505420/Riders_of_Icarus_Ellun_Value_Package/?snr=1_7_7_globaltopsellers_150_159�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/682410/Tree_of_Savior__Reset_Pack_for_SA_Servers/?snr=1_7_7_globaltopsellers_150_156�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/248530/Depth_Hunter_2_Deep_Dive/?snr=1_7_7_globaltopsellers_150_157
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/115320/Prototype_2/?snr=1_7_7_globaltopsellers_150_180
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/115320/Prototype_2/?snr=1_7_7_globaltopsellers_150_181
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/720960/LEGO_Worlds_Monster_Pack/?snr=1_7_7_globaltopsellers_150_167�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/716440/Tree_of_Savior__Master_Blacksmith_Pack/?snr=1_7_7_globaltopsellers_150_172�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/682400/Tree_of_Savior__Reset_Pack_for_SEA_Servers/?snr=1_7_7_globaltopsellers_150_171�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/550331/Additional_Playable_Character_DIZZY/?snr=1_7_7_globaltopsellers_150_171
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/533601/Riders_of_Icarus_Heroic_Grim_Riders_Package/?snr=1_7_7_globaltopsellers_150_166�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/595430/Sky_Knights/?snr=1_7_7_globaltopsellers_150_165�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/17100/Children_of_the_Nile_Enhanced_Edition/?snr=1_7_7_globaltopsellers_150_164
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/3430/Pizza_Frenzy_Deluxe/?snr=1_7_7_globaltopsellers_150_184
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/607120/Police_Quest_SWAT_2/?snr=1_7_7_globaltopsellers_150_192
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/50146/Mafia_II_DLC_Betrayal_of_Jimmy/?snr=1_7_7_globaltopsellers_150_182
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/8890/Freedom_Force_vs_the_Third_Reich/?snr=1_7_7_globaltopsellers_150_215�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/3310/Chuzzle_Deluxe/?snr=1_7_7_globaltopsellers_150_215
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/36100/Tradewinds_Classics/?snr=1_7_7_globaltopsellers_150_214
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City/?snr=1_7_7_globaltopsellers_150_210�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/773470/Freestyle_2__Silver_Fox_Star_Pack/?snr=1_7_7_globaltopsellers_150_209�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/49000/Hotel_Dash_Suite_Success/?snr=1_7_7_globaltopsellers_150_204
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/311340/METAL_GEAR_SOLID_V_GROUND_ZEROES/?snr=1_7_7_globaltopsellers_150_199�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/10100/Kings_Quest_Collection/?snr=1_7_7_globaltopsellers_150_230
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/204600/Kingdoms_of_Amalur_Reckoning__Weapons__Armor_Bundle/?snr=1_7_7_globaltopsellers_150_220�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/766711/EVE_Online_5_Daily_Alpha_Injectors/?snr=1_7_7_globaltopsellers_150_223�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/36310/Westward_IV_All_Aboard/?snr=1_7_7_globaltopsellers_150_217
+   error Info:IndexError('list index out of range',)
+ʹ�ô���201.222.55.34:62225https://store.steampowered.com/app/386880/Rake/?snr=1_7_7_globaltopsellers_150_247
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/3350/Bejeweled_Deluxe/?snr=1_7_7_globaltopsellers_150_244
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/386880/Rake/?snr=1_7_7_globaltopsellers_150_248
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/318875/Lara_Croft_and_the_Temple_of_Osiris__Twisted_Gears_Pack/?snr=1_7_7_globaltopsellers_150_243�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/318874/Lara_Croft_and_the_Temple_of_Osiris__Icy_Death_Pack/?snr=1_7_7_globaltopsellers_150_243�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������ʹ�ô���179.49.59.26:3128https://store.steampowered.com/app/437233/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN__MB_Coin_2000/?snr=1_7_7_globaltopsellers_150_261�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/823220/Rocket_League_X_Monstercat_Vol_2/?snr=1_7_7_globaltopsellers_150_250�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/832350/ArcheAge__Legends_Return_Starter_Pack/?snr=1_7_7_globaltopsellers_150_252�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/370600/Hello_Kitty_and_Sanrio_Friends_Racing/?snr=1_7_7_globaltopsellers_150_249
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/425310/Ghostbusters/?snr=1_7_7_globaltopsellers_150_249
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/36130/Tradewinds_Caravans__Odyssey_Pack/?snr=1_7_7_globaltopsellers_150_278
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/732410/Metin2Power_Booster_Pack/?snr=1_7_7_globaltopsellers_150_277�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/332120/RaceRoom__ADAC_GT_Masters_Experience_2014/?snr=1_7_7_globaltopsellers_150_276
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/8400/Geometry_Wars_Retro_Evolved/?snr=1_7_7_globaltopsellers_150_269
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/352991/Dragons_Prophet_Starter_Pack/?snr=1_7_7_globaltopsellers_150_266�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/37700/Darkest_of_Days/?snr=1_7_7_globaltopsellers_150_267
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/37700/Darkest_of_Days/?snr=1_7_7_globaltopsellers_150_268
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/625030/Orcs_Must_Die_Unchained__Hero_Bundle/?snr=1_7_7_globaltopsellers_150_290�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/16180/Virtual_Villagers__The_Secret_City/?snr=1_7_7_globaltopsellers_150_293
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/573512/MapleStory_Cosmetic_Pack/?snr=1_7_7_globaltopsellers_150_292�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/659290/EVE_Online_Alpha_Pack/?snr=1_7_7_globaltopsellers_150_291�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/846310/Kritika_Online_Collectors_Edition_Pack/?snr=1_7_7_globaltopsellers_150_280�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/773471/Freestyle_2__Silver_Fox_Pro_Pack/?snr=1_7_7_globaltopsellers_150_283�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/328940/The_Deer_God/?snr=1_7_7_globaltopsellers_150_282
+   error Info:IndexError('list index out of range',)
+ʹ�ô���188.130.254.210:8000https://store.steampowered.com/app/47540/Puzzle_Quest_2/?snr=1_7_7_globaltopsellers_150_309
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/766712/EVE_Online_10_Daily_Alpha_Injectors/?snr=1_7_7_globaltopsellers_150_307�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/286631/Call_of_Duty_Ghosts__Molten_Pack/?snr=1_7_7_globaltopsellers_150_308�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/318870/Lara_Croft_and_the_Temple_of_Osiris__Deus_Ex_Pack/?snr=1_7_7_globaltopsellers_150_304�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/16600/Trials_2_Second_Edition/?snr=1_7_7_globaltopsellers_150_305
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/16810/Sid_Meiers_Civilization_IV_Colonization/?snr=1_7_7_globaltopsellers_150_298�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/381152/CounterStrike_Nexon_Zombies__Dragon_Set__Permanent_Character/?snr=1_7_7_globaltopsellers_150_300�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/318871/Lara_Croft_and_the_Temple_of_Osiris__Hitman_Pack/?snr=1_7_7_globaltopsellers_150_304�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/37220/Cooking_Dash/?snr=1_7_7_globaltopsellers_150_301
+   error Info:IndexError('list index out of range',)
+ʹ�ô���203.82.197.118:8080https://store.steampowered.com/app/622040/Zooicide/?snr=1_7_7_globaltopsellers_150_220
+   error Info:ValueError("invalid literal for int() with base 10: '$2.99 USD'",)
+https://store.steampowered.com/app/243890/Mavis_Beacon_Teaches_Typing_Family_Edition/?snr=1_7_7_globaltopsellers_150_318
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/16130/Fish_Tycoon/?snr=1_7_7_globaltopsellers_150_320
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/36150/Westward_Collection/?snr=1_7_7_globaltopsellers_150_323
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/849230/DOFUS__ADVENTURE_PACK/?snr=1_7_7_globaltopsellers_150_321�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/361880/Depth_Hunter_2_Treasure_Hunter/?snr=1_7_7_globaltopsellers_150_321
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/37210/Chocolatier_Decadence_by_Design/?snr=1_7_7_globaltopsellers_150_320
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/310810/Shiftlings/?snr=1_7_7_globaltopsellers_150_322
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/375230/Warhammer_40000__Eternal_Crusade/?snr=1_7_7_globaltopsellers_150_317
+   error Info:ValueError("invalid literal for int() with base 10: '�������'",)
+https://store.steampowered.com/app/819600/TERA_Digital_Starter_Pack/?snr=1_7_7_globaltopsellers_150_314�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/406600/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN__Jumpsuit_EVA/?snr=1_7_7_globaltopsellers_150_314�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/570580/Zork_Anthology/?snr=1_7_7_globaltopsellers_150_314
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/789391/Closers_Premium_Starter_Pack/?snr=1_7_7_globaltopsellers_150_311�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/846400/Kritika_Online__Gold_Raider_Elite_Costume_Pack/?snr=1_7_7_globaltopsellers_150_325�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/324810/TOXIKK/?snr=1_7_7_globaltopsellers_150_329
+   error Info:ValueError("invalid literal for int() with base 10: '���'",)
+https://store.steampowered.com/app/3990/Civilization_IV_Warlords/?snr=1_7_7_globaltopsellers_150_332�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/572050/Call_to_Power_II/?snr=1_7_7_globaltopsellers_150_336
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/18050/DeathSpank_Thongs_of_Virtue/?snr=1_7_7_globaltopsellers_150_333
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/512910/Tree_of_Savior__Novice_Pack_for_NA_Servers/?snr=1_7_7_globaltopsellers_150_336�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/451110/WAKFU__Ogrest_Anime_Pack/?snr=1_7_7_globaltopsellers_150_325�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/65400/Archon_Classic/?snr=1_7_7_globaltopsellers_150_351
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/753040/HEX_Dead_of_Winter_Bundle/?snr=1_7_7_globaltopsellers_150_352�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/16200/Virtual_Families/?snr=1_7_7_globaltopsellers_150_353
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/246880/Recruits/?snr=1_7_7_globaltopsellers_150_349
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/406590/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN__Sneaking_Suit_The_Boss/?snr=1_7_7_globaltopsellers_150_345�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/214420/?snr=1_7_7_globaltopsellers_150_344
+   error Info:ValueError("invalid literal for int() with base 10: 'Free to Play'",)
+https://store.steampowered.com/app/388340/Super_Hipster_Lumberjack/?snr=1_7_7_globaltopsellers_150_342
+   error Info:IndexError('list index out of range',)
+ʹ�ô���94.228.207.1:8085https://store.steampowered.com/app/94200/Jamestown/?snr=1_7_7_globaltopsellers_150_370
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/109700/Achron/?snr=1_7_7_globaltopsellers_150_366
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/436030/METAL_GEAR_ONLINE_EXPANSION_PACK_CLOAKED_IN_SILENCE/?snr=1_7_7_globaltopsellers_150_368�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/259490/Beast_Boxing_Turbo/?snr=1_7_7_globaltopsellers_150_358
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/210550/Angry_Birds_Space/?snr=1_7_7_globaltopsellers_150_362
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/259490/Beast_Boxing_Turbo/?snr=1_7_7_globaltopsellers_150_359
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/550330/Additional_Playable_Character_KUM_HAEHYUN/?snr=1_7_7_globaltopsellers_150_386
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/9500/Gish/?snr=1_7_7_globaltopsellers_150_387
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/27810/Gridrunner_Revolution/?snr=1_7_7_globaltopsellers_150_387
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/550334/GGXrdR_Character_Colors_Pack/?snr=1_7_7_globaltopsellers_150_384
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/37280/Wedding_Dash_2_Rings_Around_the_World/?snr=1_7_7_globaltopsellers_150_383
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/334410/JUMP/?snr=1_7_7_globaltopsellers_150_382
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/37390/Gemini_Lost/?snr=1_7_7_globaltopsellers_150_382
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/8780/RACE_On/?snr=1_7_7_globaltopsellers_150_382
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/10110/Space_Quest_Collection/?snr=1_7_7_globaltopsellers_150_377
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/373491/Kings_Quest__Chapter_5_The_Good_Knight/?snr=1_7_7_globaltopsellers_150_390
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/359930/The_Evil_Within_The_Executioner/?snr=1_7_7_globaltopsellers_150_413
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/16110/Virtual_Villagers_The_Lost_Children/?snr=1_7_7_globaltopsellers_150_409
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/337670/Default_Dan/?snr=1_7_7_globaltopsellers_150_408
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/16120/Plant_Tycoon/?snr=1_7_7_globaltopsellers_150_403
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/67350/Mafia_II_DLC_Vegas_Pack/?snr=1_7_7_globaltopsellers_150_407
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/304490/El_Starter_Pack_20/?snr=1_7_7_globaltopsellers_150_403�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/344462/DRAGON_BALL_XENOVERSE_GT_PACK_2__Mira_and_Towa/?snr=1_7_7_globaltopsellers_150_403�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/37260/Emerald_City_Confidential/?snr=1_7_7_globaltopsellers_150_405
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/373490/Kings_Quest__Chapter_4_Snow_Place_Like_Home/?snr=1_7_7_globaltopsellers_150_401
+   error Info:IndexError('list index out of range',)
+ʹ�ô���221.182.133.231:77ʹ�ô���177.47.225.42:20183https://store.steampowered.com/app/373020/Blender_Game_Asset_Creation/?snr=1_7_7_globaltopsellers_150_401
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/422920/Creeper_World_2_Anniversary_Edition/?snr=1_7_7_globaltopsellers_150_329
+   error Info:ValueError("invalid literal for int() with base 10: 'R$ 10,89'",)
+https://store.steampowered.com/app/115340/Prototype_2_RADNET_Access_Pack/?snr=1_7_7_globaltopsellers_150_429
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/3300/Bejeweled_2_Deluxe/?snr=1_7_7_globaltopsellers_150_424
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/8800/Civilization_IV_Beyond_the_Sword/?snr=1_7_7_globaltopsellers_150_416�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/37340/Fitness_Dash/?snr=1_7_7_globaltopsellers_150_438
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/362030/Mysteries__Nightmares_Morgiana/?snr=1_7_7_globaltopsellers_150_434
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/569220/Spycraft_The_Great_Game/?snr=1_7_7_globaltopsellers_150_435
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/264340/Major_Mayhem/?snr=1_7_7_globaltopsellers_150_459
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/552300/Soldier_Sortie_VR_Agent_006/?snr=1_7_7_globaltopsellers_150_456�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô������https://store.steampowered.com/app/343430/Hypnosis/?snr=1_7_7_globaltopsellers_150_459
+   error Info:IndexError('list index out of range',)
+http://www.trine2.com/site/
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/385400/Weapons_Genius/?snr=1_7_7_globaltopsellers_150_473
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/343592/Call_of_Duty_Advanced_Warfare__Backdraft_Personalization_Pack/?snr=1_7_7_globaltopsellers_150_465�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/398820/MachineCraft_PREMIUM/?snr=1_7_7_globaltopsellers_150_473
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/44650/GT_Power_Pack__Expansion_Pack_for_RACE_07/?snr=1_7_7_globaltopsellers_150_470
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/406560/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN__Sneaking_Suit_Naked_Snake/?snr=1_7_7_globaltopsellers_150_469�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/340260/Ave_Caesar/?snr=1_7_7_globaltopsellers_150_468
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/234782/Call_of_Duty_Black_Ops_II__European_Flags_of_the_World_Calling_Card_Pack/?snr=1_7_7_globaltopsellers_150_466�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������ʹ�ô���107.172.10.28:1080https://store.steampowered.com/app/207730/Arena_Wars_2/?snr=1_7_7_globaltopsellers_150_486
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/44660/RETRO__Expansion_Pack_for_RACE_07/?snr=1_7_7_globaltopsellers_150_484
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/406580/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN__Tuxedo/?snr=1_7_7_globaltopsellers_150_488�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/94202/Jamestown_Gunpowder_Treason__Plot/?snr=1_7_7_globaltopsellers_150_485
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/384360/Fingered/?snr=1_7_7_globaltopsellers_150_480
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/248970/Vector/?snr=1_7_7_globaltopsellers_150_483
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/486004/Attack_on_Titan__Episode_1/?snr=1_7_7_globaltopsellers_150_479�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/486006/Attack_on_Titan__Episode_3/?snr=1_7_7_globaltopsellers_150_479�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/486005/Attack_on_Titan__Episode_2/?snr=1_7_7_globaltopsellers_150_479�����ڵĵ���Ŀǰ���ṩ����Ʒ��ʹ�ô�������https://store.steampowered.com/app/640090/Zarya1_Mystery_on_the_Moon/?snr=1_7_7_globaltopsellers_150_470
+   error Info:ValueError("invalid literal for int() with base 10: '$3.99'",)
+https://store.steampowered.com/app/342843/Rocksmith_2014__Steve_Vai__For_The_Love_Of_God/?snr=1_7_7_globaltopsellers_150_491
+   error Info:IndexError('list index out of range',)
+https://store.steampowered.com/app/361560/Ice_Cream_Surfer/?snr=1_7_7_globaltopsellers_150_494
+   error Info:IndexError('list index out of range',)
