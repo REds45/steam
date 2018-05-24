@@ -25,7 +25,7 @@ class GamedetailSpider(Spider):
 
     def parse_detail(self, response):
         if('站点错误' in response.text):
-            with open('error.txt', 'a+') as file:
+            with open('siteerror.txt', 'a+') as file:
                 file.write(response.url+"您所在的地区目前不提供此物品，使用代理访问")
             return Request(response.url,meta={'proxy':1},callback=self.parse_detail)
         if ('/sub' in response.url or '/bundle' in response.url):
